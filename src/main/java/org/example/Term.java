@@ -42,7 +42,6 @@ public class Term extends Variable {
         return null;
     }
 
-    
     @Override
     public Value add(Value n) {
         return null;
